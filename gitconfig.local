@@ -1,0 +1,5 @@
+[alias]
+  sla = log --oneline --decorate --graph --all
+[user]
+  name = Ryan Hunter
+  email = rymalhunt@gmail.com

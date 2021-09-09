@@ -1,0 +1,4 @@
+# Rails shortcuts
+alias be='bundle exec'
+alias r='bundle exec rails'
+alias fs='foreman start'
